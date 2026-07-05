@@ -75,7 +75,7 @@ The dashboard enables users to explore employee turnover through interactive vis
 
 * `HR_Employee_Attrition_Dashboard.pbix` – Power BI project file
 * `HR_Employee_Attrition.csv` – Dataset used for analysis
-* `Dashboard.png` – Screenshot of the completed dashboard
+* `Dashboard_Screenshot.png` – Screenshot of the completed dashboard
 * `README.md` – Project documentation
 
 ---
