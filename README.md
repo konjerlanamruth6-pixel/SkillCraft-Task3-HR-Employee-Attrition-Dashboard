@@ -82,7 +82,7 @@ The dashboard enables users to explore employee turnover through interactive vis
 
 ## Dashboard Preview
 
-Open **Dashboard.png** to view the completed interactive dashboard.
+Open **Dashboard_Screenshot.png** to view the completed interactive dashboard.
 
 ---
 
